@@ -116,7 +116,8 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "skippye.github.io"
+baseurl: "skippye.github.io/blog"
+# baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
