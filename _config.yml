@@ -18,7 +18,7 @@ title: MDJ # the main title
 
 tagline: Modern Developer's Journey # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
+description: >- # used by seo meta and the atom feedlocalhost
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
@@ -116,7 +116,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "skippye.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
